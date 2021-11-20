@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <title>My Blog Post</title>
-    <link rel="stylesheet" href="/app.css">
+    <link rel="stylesheet" href="app.css">
     <body>
         <article>
             <h1><a href="/post">My First post</a></h1>
